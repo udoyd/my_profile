@@ -1,0 +1,17 @@
+.tittle{
+	color: #1e266d;
+	font-size: 45px;
+}
+.image{
+	border-radius: 40px;
+}
+.desc{
+	color: #2e367d;
+	font-size: 22px;
+}
+
+.btn{
+	background-color:#1e266d;
+	color: white;
+	border-radius: 40px;
+}
